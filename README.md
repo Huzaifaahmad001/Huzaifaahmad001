@@ -30,9 +30,7 @@ I am a Materials Informatician with a passion for advanced analytics and machine
 
 ## Projects and Contributions:
 
-- 🌐 Active in research and technical conferences
-- 🌱 Focus areas include Material Informatics, Advanced Materials, and Corrosion Engineering
-- 🤖 Contributed to projects related to steel manufacturing, heat treatment, and corrosion analysis
+- Data-Driven Prediction Of Very-High-Cycle Fatigue Life Of Additively Manufactured Ti-6Al-4V Alloy
 
 Feel free to explore my repositories to learn more about my projects and contributions. 🌟
 
