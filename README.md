@@ -55,4 +55,4 @@ Feel free to explore my repositories to learn more about my projects and contrib
 
 - 📧 Email: huzaifaahmad805@gmail.com  
 - 🌐 LinkedIn: [Huzaifa Ahmad](https://www.linkedin.com/in/huzaifa-ahmad24/)  
-- 🌐 GitHub: [Your GitHub Link]  
+- 🌐 GitHub: [[Your GitHub Link](https://github.com/Huzaifaahmad001)]  
