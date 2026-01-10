@@ -1,58 +1,93 @@
-# Huzaifa Ahmad | 🧪 Materials Science | 💻 Materials Informatics
+# Huzaifa Ahmad  
+**Associate Machine Learning Engineer | Applied Data Science | Engineering Analytics**
 
-👋 Hi, I'm Huzaifa, an enthusiastic materials informatician with a flair for transforming raw materials data into valuable insights. My exploration in the realm of materials informatics has been thrilling, and I'm eager to showcase my projects, code, and discoveries with the community.
+👋 Hi, I’m Huzaifa — an entry-level Machine Learning Engineer with hands-on experience building predictive models on real-world engineering datasets. I focus on applying machine learning and data analytics to solve domain-driven problems using Python-based ML workflows.
 
-## What I Do:
+My academic and project work emphasizes **end-to-end machine learning pipelines**, covering data preprocessing, feature engineering, model training, evaluation, and interpretation. I enjoy converting raw data into actionable insights and building models that work beyond theory.
 
-I am a Materials Informatician with a passion for advanced analytics and machine learning, specifically in the realm of Materials Informatics. My primary goal is to harness cutting-edge technology to extract actionable insights, fostering data-driven decision-making in collaborative and innovative environments within the materials science domain.
+---
 
-- 🧪 Experiment with materials data to uncover hidden patterns.
-- 🤖 Develop and deploy machine learning models tailored for materials science applications.
-- 📉 Create data visualizations that narrate compelling stories about material behaviors.
-- 📚 Continuously learn and stay up-to-date with the latest trends in Materials Informatics and data science.
+## 🚀 What I Do
+- 🧠 Build and evaluate machine learning models for regression and prediction  
+- 📊 Perform data cleaning, feature engineering, and exploratory data analysis (EDA)  
+- 🤖 Apply Random Forest, Neural Networks, and classical ML algorithms  
+- 📈 Translate domain problems into data-driven ML solutions  
+- 📚 Continuously improve skills in applied ML, analytics, and production-ready workflows  
 
-## 🛠️ Materials Informatics Toolbox:
+---
 
-- 💻 Proficient in Python, MATLAB, and Linux-based computational tools.
-- 📊 Skilled in essential data science libraries: numpy, pandas, sci-kit-learn, seaborn, matplotlib, TensorFlow.
-- 🚀 Hands-on experience with tools like Jupyter Notebooks, VS Code, and FreeCAD.
-- 📈 Experienced in data analysis, preprocessing, visualization, and feature engineering.
-- 🤖 Worked with Machine Learning Algorithms: Regression, Classification, Random Forest, Artificial Neural Networks.
-- 🧠 Skilled in Neural Networks, Deep Learning Architectures, and Frameworks (TensorFlow/PyTorch).
-- 🛠️ Advanced material characterization: SEM, XRD, and failure analysis.
+## 🛠️ Technical Skills
 
-## 📜 Certifications:
+### Machine Learning & Data
+- Python, Pandas, NumPy  
+- Scikit-learn, TensorFlow  
+- Supervised Learning (Regression, Classification)  
+- Model Evaluation (R², MAE, RMSE)  
+- Feature Engineering & Data Preprocessing  
 
-- **Materials Data Sciences and Informatics** (Georgia Institute of Technology)  
-  Focused on Materials Development, Data Science, Two-Phase Composites, and Process-Structure Evolution. *(Ongoing)*  
+### Tools & Platforms
+- Jupyter Notebook, VS Code  
+- Linux (Ubuntu)  
+- Git & GitHub  
 
-- **Machine Learning Specialization** (Stanford University and DeepLearning.AI)  
-  Trained in building ML models with numpy, scikit-learn, TensorFlow for regression, classification, clustering, and deep reinforcement learning. *(Ongoing)*  
+### Domain Knowledge
+- Engineering Data Analysis  
+- Materials Informatics  
+- Failure & Performance Modeling  
 
-- **Google Project Management Professional Certification (PMP)**  
-  Mastered leadership and project execution. *(2023)*  
+---
 
-- **Creativity and Problem-Solving Skills** (Metropolitan School of Business and Management, UK)  
-  Certified in innovative problem-solving strategies. *(2021)*  
+## 📌 Featured Projects
 
-## Achievements:
+### 🔹 Data-Driven Fatigue Strength Prediction using Machine Learning  
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow  
 
-- 🏆 1st Prize Winner at the Pakistan Auto Show 2024 for an AI-driven fatigue strength prediction model.
-- 🏆 Winner of METACOMP 1.0, a National Metallography Competition by UET Lahore.
-- 🌐 Ambassador at Career Crafters - a Career Development Platform.
-- 🤝 Co-Leader of the Research and Innovation team at SciComS-Science Communication Society.
-- 📝 Content Admin on LinkedIn (SciComS), achieved 500+ followers with high engagement.
+- Built supervised ML models to predict fatigue strength of heat-treated alloy steel  
+- Applied Random Forest and Artificial Neural Networks (ANN) for regression modeling  
+- Performed data cleaning, normalization, and feature selection  
+- Achieved high predictive performance:  
+  - **Random Forest:** R² = 0.986  
+  - **ANN:** R² = 0.971  
+- Identified key influencing features and validated model generalization on unseen data  
 
-## Projects and Contributions:
+📂 Demonstrates an end-to-end ML pipeline: data preprocessing → modeling → evaluation → insights  
 
-- **Data-Driven Prediction of Fatigue Strength in 4140 Alloy Steel:** Built high-accuracy ML models (Random Forest, ANN) to predict fatigue strength, optimizing automotive steel performance.
-- **Corrosion Rate Analysis of Mild Steel in Saline Solutions:** Conducted advanced corrosion studies with SEM, XRD, and AAS to inform industrial applications.
-- **Heat Treatment Optimization for Gear Manufacturing:** Enhanced process designs for case-hardening and nitriding, contributing to durable materials production.
+---
 
-Feel free to explore my repositories to learn more about my projects and contributions. 🌟
+### 🔹 Corrosion Rate Analysis using Experimental Data  
+**Technologies:** Python, Data Analysis, SEM, XRD  
 
-## 🌐 Connect with Me:
+- Analyzed corrosion rate behavior of mild steel under varying flow conditions  
+- Structured experimental data for trend identification and analytical evaluation  
+- Interpreted results to support real-world engineering and maintenance decisions  
 
-- 📧 Email: huzaifaahmad805@gmail.com  
-- 🌐 LinkedIn: [Huzaifa Ahmad](https://www.linkedin.com/in/huzaifa-ahmad24/)  
-- 🌐 GitHub: [[Your GitHub Link](https://github.com/Huzaifaahmad001)]  
+---
+
+### 🔹 Heat Treatment Process Optimization (Data-Assisted Study)  
+**Technologies:** Python, Data Analysis, Engineering Modeling  
+
+- Studied the effect of heat treatment parameters on mechanical performance  
+- Organized and analyzed process-performance data to identify optimal conditions  
+- Focused on data-backed decision-making over trial-and-error approaches  
+
+---
+
+## 📜 Certifications
+- Machine Learning Specialization – Stanford University & DeepLearning.AI *(Ongoing)*  
+- Materials Data Sciences & Informatics – Georgia Institute of Technology *(Ongoing)*  
+- Google Project Management Professional Certificate – Google  
+
+---
+
+## 🏆 Achievements
+- 🥇 **1st Prize – Pakistan Auto Show 2024**  
+  *AI-based fatigue strength prediction project*  
+- 🥇 **Winner – METACOMP 1.0**, UET Lahore  
+- 🎓 Multiple merit-based academic scholarships  
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: **huzaifaahmad805@gmail.com**  
+- 💼 LinkedIn: https://linkedin.com/in/huzaifa-ahmad24  
+- 🧠 GitHub: https://github.com/Huzaifaahmad001  
