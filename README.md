@@ -74,7 +74,7 @@ My academic and project work emphasizes **end-to-end machine learning pipelines*
 
 ## 📜 Certifications
 - Machine Learning Specialization – Stanford University & DeepLearning.AI *(Ongoing)*  
-- Materials Data Sciences & Informatics – Georgia Institute of Technology *(Ongoing)*  
+- Materials Data Sciences & Informatics – Georgia Institute of Technology
 - Google Project Management Professional Certificate – Google  
 
 ---
