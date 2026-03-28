@@ -1,93 +1,92 @@
 # Huzaifa Ahmad  
-**Associate Machine Learning Engineer | Applied Data Science | Engineering Analytics**
+Machine Learning for Computational Materials Science | Electrochemistry | Materials Informatics  
 
-👋 Hi, I’m Huzaifa — an entry-level Machine Learning Engineer with hands-on experience building predictive models on real-world engineering datasets. I focus on applying machine learning and data analytics to solve domain-driven problems using Python-based ML workflows.
-
-My academic and project work emphasizes **end-to-end machine learning pipelines**, covering data preprocessing, feature engineering, model training, evaluation, and interpretation. I enjoy converting raw data into actionable insights and building models that work beyond theory.
-
----
-
-## 🚀 What I Do
-- 🧠 Build and evaluate machine learning models for regression and prediction  
-- 📊 Perform data cleaning, feature engineering, and exploratory data analysis (EDA)  
-- 🤖 Apply Random Forest, Neural Networks, and classical ML algorithms  
-- 📈 Translate domain problems into data-driven ML solutions  
-- 📚 Continuously improve skills in applied ML, analytics, and production-ready workflows  
+📍 Lahore, Pakistan  
+📧 huzaifaahmad805@gmail.com  
+🔗 ORCID: https://orcid.org/0009-0006-5929-9715  
+🔗 LinkedIn: https://linkedin.com/in/huzaifa-ahmad24  
 
 ---
 
-## 🛠️ Technical Skills
+## About  
+I am a Materials Science graduate applying machine learning to study material behavior, with a growing focus on computational electrochemistry and data-driven materials modeling.
 
-### Machine Learning & Data
-- Python, Pandas, NumPy  
-- Scikit-learn, TensorFlow  
-- Supervised Learning (Regression, Classification)  
-- Model Evaluation (R², MAE, RMSE)  
-- Feature Engineering & Data Preprocessing  
-
-### Tools & Platforms
-- Jupyter Notebook, VS Code  
-- Linux (Ubuntu)  
-- Git & GitHub  
-
-### Domain Knowledge
-- Engineering Data Analysis  
-- Materials Informatics  
-- Failure & Performance Modeling  
+My work centers on building predictive models from experimental and engineering datasets, with an emphasis on uncovering structure–property relationships. I am particularly interested in extending these approaches toward atomistic modeling and AI-driven analysis of electrochemical systems, including catalysis and charge transport phenomena.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Data-Driven Fatigue Strength Prediction using Machine Learning  
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, TensorFlow  
-
-- Built supervised ML models to predict fatigue strength of heat-treated alloy steel  
-- Applied Random Forest and Artificial Neural Networks (ANN) for regression modeling  
-- Performed data cleaning, normalization, and feature selection  
-- Achieved high predictive performance:  
-  - **Random Forest:** R² = 0.986  
-  - **ANN:** R² = 0.971  
-- Identified key influencing features and validated model generalization on unseen data  
-
-📂 Demonstrates an end-to-end ML pipeline: data preprocessing → modeling → evaluation → insights  
+## Research Interests  
+- Computational Electrochemistry  
+- Atomistic Modeling & Simulation (DFT, ML potentials – learning in progress)  
+- Machine Learning for Materials Science  
+- Electrocatalysis & Energy Materials  
+- Structure–Property Relationships  
 
 ---
 
-### 🔹 Corrosion Rate Analysis using Experimental Data  
-**Technologies:** Python, Data Analysis, SEM, XRD  
+## Selected Projects  
 
-- Analyzed corrosion rate behavior of mild steel under varying flow conditions  
-- Structured experimental data for trend identification and analytical evaluation  
-- Interpreted results to support real-world engineering and maintenance decisions  
+### Data-Driven Fatigue Strength Prediction  
+- Developed ML models to predict fatigue strength of heat-treated alloy steel  
+- Applied Random Forest and Neural Networks (R² up to 0.98)  
+- Identified key compositional and processing features influencing performance  
+- Demonstrates a full pipeline: preprocessing → modeling → evaluation → interpretation  
 
----
+### Corrosion Rate Analysis (Electrochemical Perspective)  
+- Analyzed corrosion behavior under varying flow conditions  
+- Interpreted results in the context of electrochemical degradation  
+- Built structured datasets from experimental measurements for analysis  
 
-### 🔹 Heat Treatment Process Optimization (Data-Assisted Study)  
-**Technologies:** Python, Data Analysis, Engineering Modeling  
-
-- Studied the effect of heat treatment parameters on mechanical performance  
-- Organized and analyzed process-performance data to identify optimal conditions  
-- Focused on data-backed decision-making over trial-and-error approaches  
-
----
-
-## 📜 Certifications
-- Machine Learning Specialization – Stanford University & DeepLearning.AI *(Ongoing)*  
-- Materials Data Sciences & Informatics – Georgia Institute of Technology
-- Google Project Management Professional Certificate – Google  
+### Heat Treatment Optimization  
+- Studied relationships between processing parameters and mechanical properties  
+- Applied data analysis to identify optimal treatment conditions  
+- Focused on linking process → microstructure → performance  
 
 ---
 
-## 🏆 Achievements
-- 🥇 **1st Prize – Pakistan Auto Show 2024**  
-  *AI-based fatigue strength prediction project*  
-- 🥇 **Winner – METACOMP 1.0**, UET Lahore  
-- 🎓 Multiple merit-based academic scholarships  
+## Technical Skills  
+
+**Machine Learning & Data**  
+Python, Pandas, NumPy, Scikit-learn, TensorFlow  
+Regression & Predictive Modeling  
+Model Evaluation (R², MAE, RMSE)  
+Feature Engineering & Data Processing  
+
+**Tools**  
+Jupyter Notebook, VS Code, Git, Linux  
+
+**Domain Knowledge**  
+Materials Science, Electrochemistry (corrosion, degradation)  
+Engineering Data Analysis, Performance Modeling  
 
 ---
 
-## 🌐 Connect With Me
-- 📧 Email: **huzaifaahmad805@gmail.com**  
-- 💼 LinkedIn: https://linkedin.com/in/huzaifa-ahmad24  
-- 🧠 GitHub: https://github.com/Huzaifaahmad001  
+## Current Focus  
+- Strengthening fundamentals in computational materials science  
+- Learning atomistic simulation methods (DFT, molecular modeling)  
+- Exploring machine learning approaches for electrochemical systems and catalysis  
+- Bridging experimental data with computational and AI-driven models  
+
+---
+
+## Achievements  
+- 1st Prize – Pakistan Auto Show (AI-based fatigue prediction project)  
+- Winner – METACOMP 1.0, UET Lahore  
+- Multiple academic merit scholarships  
+
+---
+
+## Certifications  
+- Machine Learning Specialization — Stanford & DeepLearning.AI (ongoing)  
+- Materials Data Science & Informatics — Georgia Tech  
+- Google Project Management Certificate  
+
+---
+
+## Open to  
+PhD opportunities in computational materials science, particularly at the intersection of:
+- AI-driven materials discovery  
+- Computational electrochemistry  
+- Atomistic modeling of energy materials  
+
+---
