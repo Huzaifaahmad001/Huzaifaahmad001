@@ -136,16 +136,6 @@ Composition-based prediction can help prioritize candidate materials for further
 - **Computational Tools:** MATLAB, OriginPro, FreeCAD, Linux
 - **Research Methods:** Experimental data analysis, predictive modeling, feature analysis, structure–property relationships
 
-## 🌱 Why FAMEAIS?
-
-I'm interested in FAMEAIS because it brings together the areas I want to develop further: **advanced materials, artificial intelligence, computational modeling, and sustainability**.
-
-My experimental research has taught me how processing conditions and environmental factors affect material performance. My machine learning projects have helped me explore how data-driven methods can predict properties, investigate crystal structures, and support materials screening.
-
-Through FAMEAIS, I hope to strengthen my foundation in materials physics and chemistry, develop more advanced AI and computational skills, and learn to apply these approaches to functional materials and sustainable energy technologies.
-
-My long-term goal is to contribute to **AI-driven materials discovery**, bridging experimental materials science, machine learning, and computational modeling.
-
 ## 📫 Connect With Me
 
 - **LinkedIn:** [linkedin.com/in/huzaifa-ahmad24](https://www.linkedin.com/in/huzaifa-ahmad24)
